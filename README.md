@@ -1,6 +1,6 @@
 # 🎓 EduFlow - Adaptive AI-Driven Personalized Learning Path Recommender
 
-![EduFlow Banner](https://via.placeholder.com/1200x400.png?text=EduFlow+AI+Learning+Platform)
+![EduFlow Banner](public/homepage.png)
 
 **EduFlow** is a next-generation, full-stack educational platform that leverages Artificial Intelligence to create personalized learning experiences. By analyzing user goals and skill levels, EduFlow generates tailored learning paths, tracks progress with gamification, and provides real-time AI guidance.
 
